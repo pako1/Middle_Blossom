@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Middle Blossom</string>
+    <string name="splash_text">@string/app_name</string>
+    <string name="bottom_nav_home_tab">Home</string>
+    <string name="bottom_nav_calendar_tab">Entries</string>
+    <string name="home_action_start_training">Start Training</string>
+    <string name="home_action_treatment_plan">Treatment Plan</string>
+</resources>
